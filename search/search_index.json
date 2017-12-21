@@ -1,0 +1,44 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to EduBlocks Documentation Page\n\n\nThis page is not to host resources, but is purely for command reference for each of the libraries.\n\n\nOn the left hand side you can see a menu bar, click on each of the different library names to read\nup on what it does and what commands you can use.\n\n\nIt will also give you a description of the product and a pinout guide if it is an add-on board.\n\n\nFor any enquiries please send an email to: \nsupport@edublocks.org",
+            "title": "Welcome to EduBlocks Documentation Page"
+        },
+        {
+            "location": "/#welcome-to-edublocks-documentation-page",
+            "text": "This page is not to host resources, but is purely for command reference for each of the libraries.  On the left hand side you can see a menu bar, click on each of the different library names to read\nup on what it does and what commands you can use.  It will also give you a description of the product and a pinout guide if it is an add-on board.  For any enquiries please send an email to:  support@edublocks.org",
+            "title": "Welcome to EduBlocks Documentation Page"
+        },
+        {
+            "location": "/minecraft/",
+            "text": "What is Minecraft Pi Edition?\n\n\nMinecraft Pi Edition is a version of Minecraft developed for the Raspberry Pi. It is based on an old version of Pocket Edition but is slightly cut down, containing a revised feature set and support for multiple programming languages. EduBlocks has a feature that includes the Minecraft Python Library to interact with the Minecraft world.\n\n\nStarting Minecraft Pi Edition\n\n\nMinecraft Pi can easily be started from the Raspberry Pi Menu. Simply click on the Raspberry Pi logo in the\ntop left hand corner of your Raspberry Pi desktop and navigate to Games and click on Minecraft Pi. \n\n\nThis may not work on your VNC Servers! We recommend using a standard HDMI setup.\n\n\n\nCommand Reference\n\n\nThe below commands are those that can be found in EduBlocks. The block will be shown, and below it will be the Python code and then a breif description.\n\n\n1. Import Minecraft\n\n\n\n\nPython Code:\n\n\nfrom mcpi.minecraft import Minecraft\n\n\n\n\nUsage:\nThis command imports the Minecraft API for us to interact with Minecraft via Python & EduBlocks\n\n\n2. MCPI Block Import\n\n\n\n\nPython Code:\n\n\nfrom mcpi import block\n\n\n\n\nUsage:\nThis command allows us to reference to the Minecraft Blocks via their names rather than the numbered id's",
+            "title": "Minecraft"
+        },
+        {
+            "location": "/minecraft/#what-is-minecraft-pi-edition",
+            "text": "Minecraft Pi Edition is a version of Minecraft developed for the Raspberry Pi. It is based on an old version of Pocket Edition but is slightly cut down, containing a revised feature set and support for multiple programming languages. EduBlocks has a feature that includes the Minecraft Python Library to interact with the Minecraft world.",
+            "title": "What is Minecraft Pi Edition?"
+        },
+        {
+            "location": "/minecraft/#starting-minecraft-pi-edition",
+            "text": "Minecraft Pi can easily be started from the Raspberry Pi Menu. Simply click on the Raspberry Pi logo in the\ntop left hand corner of your Raspberry Pi desktop and navigate to Games and click on Minecraft Pi.   This may not work on your VNC Servers! We recommend using a standard HDMI setup.",
+            "title": "Starting Minecraft Pi Edition"
+        },
+        {
+            "location": "/minecraft/#command-reference",
+            "text": "The below commands are those that can be found in EduBlocks. The block will be shown, and below it will be the Python code and then a breif description.",
+            "title": "Command Reference"
+        },
+        {
+            "location": "/minecraft/#1-import-minecraft",
+            "text": "Python Code:  from mcpi.minecraft import Minecraft  Usage:\nThis command imports the Minecraft API for us to interact with Minecraft via Python & EduBlocks",
+            "title": "1. Import Minecraft"
+        },
+        {
+            "location": "/minecraft/#2-mcpi-block-import",
+            "text": "Python Code:  from mcpi import block  Usage:\nThis command allows us to reference to the Minecraft Blocks via their names rather than the numbered id's",
+            "title": "2. MCPI Block Import"
+        }
+    ]
+}
